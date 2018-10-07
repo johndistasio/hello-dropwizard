@@ -1,0 +1,2 @@
+name: world
+template: Hello, %s!
